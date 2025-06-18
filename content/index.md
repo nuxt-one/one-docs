@@ -7,7 +7,7 @@ navigation: false
 ---
 actions:
   - name: Documentation
-    to: http://localhost:3000/getting-started/introduction
+    to: https://one-docs.netlify.app/getting-started/introduction
   - name: GitHub
     variant: outline
     to: https://github.com/easy-temps/nuxt-one

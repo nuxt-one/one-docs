@@ -17,5 +17,10 @@ export default defineNuxtConfig({
       },
     ],
   },
+
+  site: {
+    url: 'https://one-docs.netlify.app',
+  },
+
   compatibilityDate: '2024-07-06',
-});
+})
