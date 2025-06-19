@@ -1,10 +1,10 @@
 [build]
 base = "/"
 publish = "dist"
-command = "pnpm run build"
+command = "pnpm run generate"
 
 [build.environment]
-NODE_VERSION = "20"
+NODE_VERSION = "22"
 
 [[redirects]]
 from = "/*"
