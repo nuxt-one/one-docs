@@ -8,7 +8,7 @@ fullpage: true
 ---
 actions:
   - name: 文档
-    to: https://one-docs.netlify.app/zh/getting-started/introduction
+    to: /getting-started/introduction
   - name: GitHub
     variant: outline
     to: https://github.com/easy-temps/nuxt-one
