@@ -18,8 +18,13 @@ export default defineNuxtConfig({
     ],
   },
 
-  site: {
-    url: 'https://one-docs.netlify.app',
+  icon: {
+    customCollections: [
+      {
+        prefix: 'my-icon',
+        dir: './assets/icons'
+      },
+    ],
   },
 
   compatibilityDate: '2024-07-06',

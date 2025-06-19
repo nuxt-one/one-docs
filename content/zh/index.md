@@ -74,7 +74,7 @@ actions:
   ::card
   ---
   title: Better Auth
-  icon: https://www.better-auth.com/logo.png
+  icon: my-icon:better-auth
   icon-size: 26
   to: https://www.better-auth.com
   target: _blank
