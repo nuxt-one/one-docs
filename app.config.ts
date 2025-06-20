@@ -26,7 +26,7 @@ export default defineAppConfig({
         title: 'Docs',
         links: [{
           title: 'Getting Started',
-          to: '/getting-started',
+          to: '/getting-started/introduction',
           description: 'Get started with Nuxt One',
           target: '_self',
           icon: 'lucide:rocket',
