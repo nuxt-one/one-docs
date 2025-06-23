@@ -2,7 +2,7 @@
   "name": "nuxt-one-docs",
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.12.1",
+  "packageManager": "pnpm@10.12.2",
   "scripts": {
     "dev": "nuxt dev",
     "generate": "nuxt generate",
@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "nuxt": "^3.17.5",
-    "shadcn-docs-nuxt": "^1.0.3",
-    "vue": "^3.5.16",
+    "shadcn-docs-nuxt": "^1.0.6",
+    "vue": "^3.5.17",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
