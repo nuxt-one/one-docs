@@ -20,7 +20,7 @@ export default defineAppConfig({
       },
       logo: {
         light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        dark: '/logo.svg',
       },
       nav: [{
         title: 'Docs',
