@@ -1,6 +1,6 @@
-# Nuxt One Docs
+# Docs
 
-This is the documentation for [Nuxt One](https://github.com/easy-temps/nuxt-one).
+This is the documentation for [Nuxt One](https://github.com/nuxt-one/nuxt-one).
 
 ## Setup
 

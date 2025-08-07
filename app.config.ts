@@ -45,13 +45,13 @@ export default defineAppConfig({
         }],
       }, {
         title: 'Use This Template',
-        to: 'https://github.com/easy-temps/nuxt-one',
+        to: 'https://github.com/nuxt-one/nuxt-one',
         target: '_blank',
         showLinkIcon: true,
       }],
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/easy-temps/nuxt-one',
+        to: 'https://github.com/nuxt-one/nuxt-one',
         target: '_blank',
       }],
     },
@@ -66,10 +66,10 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © easy-temps',
+      credits: 'Copyright © nuxt-one',
       links: [{
         icon: 'lucide:github',
-        to: 'https://github.com/easy-temps/nuxt-one',
+        to: 'https://github.com/nuxt-one/nuxt-one',
         target: '_blank',
       }],
     },
@@ -81,12 +81,12 @@ export default defineAppConfig({
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
-        to: 'https://github.com/easy-temps/nuxt-one',
+        to: 'https://github.com/nuxt-one/nuxt-one',
         target: '_blank',
       }, {
         title: 'Create Issues',
         icon: 'lucide:circle-dot',
-        to: 'https://github.com/easy-temps/nuxt-one/issues',
+        to: 'https://github.com/nuxt-one/nuxt-one/issues',
         target: '_blank',
       }],
     },

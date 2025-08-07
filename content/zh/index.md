@@ -11,7 +11,7 @@ actions:
     to: /getting-started/introduction
   - name: GitHub
     variant: outline
-    to: https://github.com/easy-temps/nuxt-one
+    to: https://github.com/nuxt-one/nuxt-one
     leftIcon: 'lucide:github'
 ---
 
